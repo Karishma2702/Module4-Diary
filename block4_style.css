@@ -1,0 +1,26 @@
+nav{
+      background-color: #b3b6b7; /* Background color */
+      text-align: center; /* Center align text */
+      padding: 10px 0; /* Padding for better spacing */
+    }
+body{
+      background-color:#d7dbdd;
+      font-family: Arial, sans-serif;
+}
+footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 15px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .footer-links a {
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+        }
+        .footer-links a:hover {
+            text-decoration: underline;
+        }

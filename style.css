@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d7dbdd;
+}
+
+nav {
+    background-color: #b3b6b7; /* Background color */
+    text-align: center; /* Center align text */
+    position: fixed;
+    width: 100%;
+}
+
+#alignment {
+    text-align: center;
+}
+
+h2 {
+    color: #2e4053;
+}
+
+#content {
+    padding: 80%;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-links a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
